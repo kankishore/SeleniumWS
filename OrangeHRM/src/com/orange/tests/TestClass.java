@@ -12,7 +12,7 @@ import com.test.framework.UI;
 
 public class TestClass {
 
-	@Test
+	@Test(priority=1)
 	public void test1(){
 		WebDriver driver=new FirefoxDriver();
 		driver.navigate().to("http://enterprise.demo.orangehrmlive.com/auth/login");
