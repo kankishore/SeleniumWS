@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39168" started-at="2015-08-29T06:52:33Z" finished-at="2015-08-29T06:53:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39168" started-at="2015-08-29T06:52:33Z" finished-at="2015-08-29T06:53:13Z">
+      <class name="com.orange.tests.TestClass">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.orange.tests.TestClass@794a70bf]" name="test1" duration-ms="39132" started-at="2015-08-29T12:22:33Z" finished-at="2015-08-29T12:23:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- com.orange.tests.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
